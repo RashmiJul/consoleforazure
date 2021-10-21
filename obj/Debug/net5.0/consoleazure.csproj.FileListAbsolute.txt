@@ -1,0 +1,16 @@
+D:\Coding\Projects\Tech_Learning\Azure\consoleazure\bin\Debug\net5.0\consoleazure.exe
+D:\Coding\Projects\Tech_Learning\Azure\consoleazure\bin\Debug\net5.0\consoleazure.deps.json
+D:\Coding\Projects\Tech_Learning\Azure\consoleazure\bin\Debug\net5.0\consoleazure.runtimeconfig.json
+D:\Coding\Projects\Tech_Learning\Azure\consoleazure\bin\Debug\net5.0\consoleazure.runtimeconfig.dev.json
+D:\Coding\Projects\Tech_Learning\Azure\consoleazure\bin\Debug\net5.0\consoleazure.dll
+D:\Coding\Projects\Tech_Learning\Azure\consoleazure\bin\Debug\net5.0\ref\consoleazure.dll
+D:\Coding\Projects\Tech_Learning\Azure\consoleazure\bin\Debug\net5.0\consoleazure.pdb
+D:\Coding\Projects\Tech_Learning\Azure\consoleazure\obj\Debug\net5.0\consoleazure.csproj.AssemblyReference.cache
+D:\Coding\Projects\Tech_Learning\Azure\consoleazure\obj\Debug\net5.0\consoleazure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Projects\Tech_Learning\Azure\consoleazure\obj\Debug\net5.0\consoleazure.AssemblyInfoInputs.cache
+D:\Coding\Projects\Tech_Learning\Azure\consoleazure\obj\Debug\net5.0\consoleazure.AssemblyInfo.cs
+D:\Coding\Projects\Tech_Learning\Azure\consoleazure\obj\Debug\net5.0\consoleazure.csproj.CoreCompileInputs.cache
+D:\Coding\Projects\Tech_Learning\Azure\consoleazure\obj\Debug\net5.0\consoleazure.dll
+D:\Coding\Projects\Tech_Learning\Azure\consoleazure\obj\Debug\net5.0\ref\consoleazure.dll
+D:\Coding\Projects\Tech_Learning\Azure\consoleazure\obj\Debug\net5.0\consoleazure.pdb
+D:\Coding\Projects\Tech_Learning\Azure\consoleazure\obj\Debug\net5.0\consoleazure.genruntimeconfig.cache
